@@ -2,11 +2,11 @@ Package: dogs
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Yongjun",
+           family = "Li",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+           email = "yongjun.li@ecodev.vic.gov.au",
+           comment = structure("https://orcid.gor/0000-00001-6937-3540", .Names = "ORCID"))
 Description: What the package does (one paragraph).
 License: CC0
 Encoding: UTF-8
