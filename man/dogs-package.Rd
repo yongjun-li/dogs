@@ -6,10 +6,20 @@
 \alias{dogs-package}
 \title{dogs: What the Package Does (One Line, Title Case)}
 \description{
+\if{html}{\figure{logo.png}{options: align='right'}}
+
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/yongjun-li/dogs}
+  \item Report bugs at \url{https://github.com/yongjun-li/dogs/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (YOUR-ORCID-ID)
+\strong{Maintainer}: Yongjun Li \email{yongjun.li@ecodev.vic.gov.au} (https://orcid.gor/0000-00001-6937-3540)
 
 }
 \keyword{internal}
